@@ -1,0 +1,21 @@
+= Cloud Foundry for Developers: A quick dive into cloud-agnostic essentials for production-obsessed devs
+
+== Abstract
+
+.cf push
+[quote, Onsi Fakhouri, Haiku]
+"Here is my source code
+Run it in the cloud for me
+I do not care how"
+Haiku by Onsi Fakhouri
+
+
+Choices are generally a good thing, and when it comes to platforms for deploying applications, developers have plenty of them! Many options are "some assembly required", several take a unique (sometimes referred to as *proprietary*) approach to their solutions, and some...are open source, standards-compliant, infrastructure- and location-independent offerings that enable developers to focus more on their code and less on operational concerns. Isn't that why we want a platform in the first place? To enable us to deliver better code faster to production and to keep it running smoothly at scale?
+
+The Cloud Foundry Foundation has over 65 members and shares a common core codebase. Cloud Foundry provides the platform (containerization, scaling, orchestration, networking, etc.) to enable true "cloud-native" applications...apps that don't care where they run in order to form responsive, resilient systems.
+
+Join the presenter as he discusses and then demonstrates developer-focused features with *live coding and real deployments*. Come to this session to level up on Cloud Foundry!
+
+== Developer & Presenter
+
+Mark Heckler is a Pivotal Principal Technologist & Spring Developer Advocate, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the Cloud and IoT applications. He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog (http://www.thehecklers.com[Hecklers in Development, brewing stronger Java]) and an occasionally interesting Twitter account (https://twitter.com/MkHeck[@mkheck]).

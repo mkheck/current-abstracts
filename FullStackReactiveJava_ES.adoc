@@ -1,0 +1,18 @@
+= Full-stack Reactive Java con Project Reactor y Spring Boot 2
+
+== Sumario
+
+Programación reactiva ofrece desarrolladores de Java la habilidad de construir servicios elásticos, responsivos, y dirigidos por mensajes...pero muchos desarrolladores de Java no saben donde empezar. La iniciativa "Reactive Streams" nos provee una base y el proyecto Reactor nos da una manera excelente para que nos hagamos inmediatamente productivos por aprovechar las capacidades reactivas de principio a fin. Si tiene experiencia con sistemas Spring MVC *o* sistemas "funcionales", Reactor le dará el poder para crear rápidamente y eficientemente aplicaciones reactivas de Spring Boot 2.
+
+En esta sesión, el presentador explora el "web runtime" nuevo basado en Netty y demuestra como:
+
+* integrar fácilmente con tecnologías existentes de Spring
+* migrar con facilidad desde aplicaciones y sistemas que bloqueen
+* definir su API en estilos imperativos *y* funcionales, cosechando todos los beneficios de ambos
+* aprovechar nuevos mecanismos poderosos para probar sus aplicaciones y mejorar su código y su vida :)
+
+_El orador programará en vivo y en tiempo real todos los ejemplos_. Esta no es una discusión abstracta, venga para ganar conocimientos prácticos!
+
+== Bio
+
+Mark Heckler es Principal Technologist y Spring Developer Advocate, presentador, y autor centrándose en desarrollo de software para el Internet of Things (IoT) y la nube. Ha trabajado con negocios claves en los campos de fabricación, retail, médico, científico, telecomunicación, y finanzas y también varios organizaciones públicas para desarrollar y entregar habilidades críticas con puntualidad y dentro de presupuesto. Mark es contribuidor de código abierto y autor/curador de un blog para desarrolladores (http://www.thehecklers.com) y una cuenta ocasionalmente interesante en Twitter (@mkheck).

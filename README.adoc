@@ -1,0 +1,26 @@
+= Current Abstracts for sessions, deep dives, & workshops I can deliver upon request
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* mailto:mark@thehecklers.org[mark@thehecklers.org]
+* https://twitter.com/MkHeck[@mkheck on Twitter]
+
+== Purpose
+
+This repository contains abstracts for talks I am currently delivering in one or more of the following formats:
+
+* Conference/meetup sessions ranging from 50 to 90 minutes
+* Deep dives ranging from 2 to 3 hours
+
+== Notes
+
+I can present in either English or Spanish. Talks I give in Spanish are indicated with "_ES" in their titles.
+
+Puedo presentar en inglés o español. Las presentaciones disponible en español se indican con "_ES" en los títulos.
+
+== Contacting me
+
+* https://www.thehecklers.com[Hecklers in Development, brewing stronger Java (personal website)]
+* mailto:mark@thehecklers.com[Email me @ mark@thehecklers.com]
