@@ -14,6 +14,13 @@ This repository contains abstracts for talks I am currently delivering in one or
 * Conference/meetup sessions ranging from 50 to 90 minutes
 * Deep dives ranging from 2 to 3 hours
 
+== Document formats
+
+Each abstract is provided in two formats:
+
+* Plain text (.adoc extension), viewable in any text editor
+* HTML format (.html extension), viewable in any web browser
+
 == Notes
 
 I can present in either English or Spanish. Talks I give in Spanish are indicated with "_ES" in their titles.
