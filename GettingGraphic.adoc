@@ -1,0 +1,15 @@
+= Getting Graphic: Using Neo4j & Spring Data to extract maximum value from your data
+
+== Abstract
+
+Many of us have a great deal of experience working with traditional relational databases, and with so-called NoSQL databases (both document stores & key/value pairs) as well. Graph databases provide capabilities that we may not have fully leveraged...yet.
+
+Come to this session to learn how to exploit the power of Neo4j quickly and powerfully using Spring Boot and Spring Data. The presenters will explain the types of data that benefit most from a graph database, then live-code a system of Spring Boot+Spring Data microservices to demonstrate how to really USE it.
+
+Learn how to elevate the relationships *among your data* to the same level *as* your data and tap the full power of Spring Data & Neo4j!
+
+== Developers & Presenters
+
+Jennifer Reif (https://twitter.com/jmhreif[@jmhreif]) is a Developer Relations Engineer at Neo4j, conference speaker, https://medium.com/@jennifer.reif[blogger], and an avid developer and problem-solver. She holds a Master’s degree in Computer Management and Information Systems and has worked with large enterprises to organize and make sense of widespread data assets and leverage them for maximum business value. She has worked with a variety of commercial and open source tools and enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize chaos and deliver software more effectively.
+
+Mark Heckler is a Pivotal Principal Technologist & Spring Developer Advocate, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the Cloud and IoT applications. He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog (http://www.thehecklers.com[Hecklers in Development, brewing stronger Java]) and an occasionally interesting Twitter account (https://twitter.com/MkHeck[@mkheck]).
