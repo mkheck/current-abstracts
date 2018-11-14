@@ -1,10 +1,12 @@
-= Drinking from the Stream: How to Use Messaging Platforms for Scalability & Performance (CURRENTLY IN DEVELOPMENT)
+= Spring Security for N00bz: A quick introduction for the terminally insecure (CURRENTLY IN DEVELOPMENT)
 
 == Abstract
 
-Most mission-critical systems have distributed elements or are entirely distributed, resulting in a number of challenges: performance, scalability, reliability, resilience...the eight fallacies of distributed computing are alive and well!
+No one wants to be the next Equifax (or Target or Yahoo or TGX or or or) and feature prominently in headlines of the latest terrible security breach. Often referred to as a Career Limiting Move (CLM), it can also make you and your organization a target for lawsuits, federal charges, and recognition of the most negative kind. But security is *hard*, right? Where does one even begin???
 
-Messaging platforms are often used to solve these problems and increase the "ilities", but they don't come without a few complexities of their own. Come to this session to learn how to leverage open source solutions like Spring Cloud Stream, RabbitMQ, & Apache Kafka to maximize your distributed systems' capabilities while minimizing complexity. All examples will be coded *live & in real-time*!
+One _fully open-source_ solution for application security is widely used and respected: Spring Security. Built with Java & Spring, it provides a proven app security platform that integrates with numerous languages and components to provide end-to-end security for your critical applications. Using the JavaScript framework du jour for front end development? Reactive systems? LDAP? OAuth2? OpenID? *It's in there.*
+
+Defense is a multi-faceted topic, but your application's security is central to it all. Come to this session for a thought-provoking introduction to _defense in depth_ and a live-coding "lock it down" exploration of how to secure your apps now and maintain their security over time using 100% open source software.
 
 == Developer & Presenter
 
