@@ -1,18 +1,10 @@
-= Cloud Native Java: To Infinity and Beyond!
+= Drinking from the Stream: How to Use Messaging Platforms for Scalability & Performance (CURRENTLY IN DEVELOPMENT)
 
 == Abstract
 
-In this session, learn how to use proven patterns & open source software to rapidly develop a resilient, production-ready microservice architecture. This session addresses vital points such as:
+Most mission-critical systems have distributed elements or are entirely distributed, resulting in a number of challenges: performance, scalability, reliability, resilience...the eight fallacies of distributed computing are alive and well!
 
-* Configuration services
-* Microservice registration and discovery
-* Circuit breakers for graceful degradation
-* Load balancing and intelligent routing
-* Asynchronous messaging
-* Reactive services, events, & backpressure
-* Functional reactive routing/API creation
-
-The presenter will demonstrate how to develop & effectively manage microservices using OSS tools like Spring Boot, Spring Cloud, & Netflix OSS. Come to this session and go Cloud Native!
+Messaging platforms are often used to solve these problems and increase the "ilities", but they don't come without a few complexities of their own. Come to this session to learn how to leverage open source solutions like Spring Cloud Stream, RabbitMQ, & Apache Kafka to maximize your distributed systems' capabilities while minimizing complexity. All examples will be coded *live & in real-time*!
 
 == Developer & Presenter
 
