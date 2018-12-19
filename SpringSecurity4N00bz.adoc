@@ -1,4 +1,4 @@
-= Spring Security for N00bz: A quick introduction for the terminally insecure (CURRENTLY IN DEVELOPMENT)
+= Spring Security for N00bz: A quick introduction for the terminally insecure
 
 == Abstract
 

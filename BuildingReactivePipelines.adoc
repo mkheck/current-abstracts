@@ -1,4 +1,4 @@
-= Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems (CURRENTLY IN DEVELOPMENT)
+= Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems
 
 == Abstract
 

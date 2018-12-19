@@ -1,4 +1,4 @@
-= Drinking from the Stream: How to Use Messaging Platforms for Scalability & Performance (CURRENTLY IN DEVELOPMENT)
+= Drinking from the Stream: How to Use Messaging Platforms for Scalability & Performance
 
 == Abstract
 
