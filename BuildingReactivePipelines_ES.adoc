@@ -1,0 +1,17 @@
+= Construyendo Tuberías Reactivas: Como ir de aplicaciones escalables a aplicaciones RIDÍCULAMENTE escalables
+
+== Sumario
+
+Migrar de código imperativo a un modelo de programación reactiva nos habilita escalar nuestras aplicaciones de maneras que serían imposibles con el método imperativo de "scale out", y eso es una cosa buena! Pero con todas mejoramientos, se necesita examinar y abordar holisticamente el sistema o todo lo que logremos es de mover los embotellamientos, creando o encontrando uno u otro mientras sintonizemos aplicaciones o servicios particulares. Esto *no* es tan bueno.
+
+En esta sesión, el ponente discute:
+
+* Como el proyecto Reactor construye en la iniciativa Reactive Streams para ayudarte crear microservicios reactivos escalables de alto rendimiento
+* Plataformas mensajeras como RabbitMQ & Apache Kafka
+* Como Spring Cloud Stream utiliza Reactor para proveer tuberías enteramente reactivas para escalabilidad *ridícula* entre el sistema total
+
+*El ponente escribirá en código todos los ejemplos usando software de código abierto *en vivo y en tiempo real*! Esta no está una discusión abstracta, vengas para ganar conocimiento real y practical!
+
+== Bio
+
+Mark Heckler es Principal Technologist y Spring Developer Advocate, ponente, y autor centrándose en desarrollo de software para el Internet of Things (IoT) y la nube. Ha trabajado con negocios claves en los campos de fabricación, retail, médico, científico, telecomunicación, y finanzas y también varios organizaciones públicas para desarrollar y entregar habilidades críticas con puntualidad y dentro de presupuesto. Mark es contribuidor de código abierto y autor/curador de un blog para desarrolladores (https://www.losheckler.com) y una cuenta ocasionalmente interesante en Twitter (https://twitter.com/MkHeck[@mkheck]).
