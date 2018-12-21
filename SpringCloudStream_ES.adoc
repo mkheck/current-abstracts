@@ -1,10 +1,10 @@
-= Beber del Corriente: Como usar las plataformas mensajeras para escalamiento y rendimiento
+= Beber del Corriente: Como usar las plataformas de mensajería para escalamiento y rendimiento
 
 == Sumario
 
-Casi todos de los sistemas de misión crítica tienen elementos distribuidos o son totalmente distribuido, que resulten en retos numerosos: rendimiento, escalamiento, confiabilidad, elasticidad...las ocho falacias de la computación distribuida son vivas y bienes!
+Casi todos de los sistemas de misión crítica tienen elementos distribuidos o son totalmente distribuidos, resultando en numerosos retos: rendimiento, escalamiento, confiabilidad, elasticidad...los ocho mitos del cómputo distribuido son vivos y bienes!
 
-Con frecuencia las plataformas mensajeras se usan para resolver estos problemas y aumentar las "ilidades", pero no vienen sin complejidades si mismas. Vengas a esta sesión para aprender como incorporar soluciones de código abierto como Spring Cloud Stream, RabbitMQ, y Apache Kafka para maximizar las capabilidades de tus sistemas distribuidos con complejidad mínima. Todos los ejemplos se escribirán en código *en vivo y en tiempo real*!
+Con frecuencia las plataformas de mensajería se usan para resolver estos problemas y aumentar las "ilidades", pero no vienen sin complejidad por si mismas. Ven a esta sesión para aprender como incorporar soluciones de código abierto como Spring Cloud Stream, RabbitMQ, y Apache Kafka para maximizar las capabilidades de tus sistemas distribuidos con complejidad mínima. Todos los ejemplos se escribirán en código *en vivo y en tiempo real*!
 
 == Bio
 

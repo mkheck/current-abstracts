@@ -7,7 +7,7 @@ Migrar de código imperativo a un modelo de programación reactiva nos habilita 
 En esta sesión, el ponente discute:
 
 * Como el proyecto Reactor construye en la iniciativa Reactive Streams para ayudarte crear microservicios reactivos escalables de alto rendimiento
-* Plataformas mensajeras como RabbitMQ & Apache Kafka
+* Plataformas de mensajería como RabbitMQ & Apache Kafka
 * Como Spring Cloud Stream utiliza Reactor para proveer tuberías enteramente reactivas para escalabilidad *ridícula* entre el sistema total
 
 *El ponente escribirá en código todos los ejemplos usando software de código abierto *en vivo y en tiempo real*! Esta no está una discusión abstracta, vengas para ganar conocimiento real y practical!
