@@ -2,7 +2,7 @@
 
 == Sumario
 
-Migrar de código imperativo a un modelo de programación reactiva nos habilita escalar nuestras aplicaciones de maneras que serían imposibles con el método imperativo de "scale out", y eso es una cosa buena! Pero con todas mejoramientos, se necesita examinar y abordar holisticamente el sistema o todo lo que logremos es de mover los embotellamientos, creando o encontrando uno u otro mientras sintonizemos aplicaciones o servicios particulares. Esto *no* es tan bueno.
+Migrar de código imperativo a un modelo de programación reactiva nos habilita escalar nuestras aplicaciones de maneras que serían imposibles con el método imperativo de "scale out", y eso es una cosa buena! Pero con todas mejoras, se necesita examinar y abordar holisticamente el sistema o todo lo que logremos es de mover los embotellamientos, creando o encontrando uno u otro mientras sintonizemos aplicaciones o servicios particulares. Esto *no* es tan bueno.
 
 En esta sesión, el ponente discute:
 
@@ -10,7 +10,7 @@ En esta sesión, el ponente discute:
 * Plataformas de mensajería como RabbitMQ & Apache Kafka
 * Como Spring Cloud Stream utiliza Reactor para proveer pipelines enteramente reactivos para escalabilidad *ridícula* entre el sistema total
 
-*El ponente escribirá en código todos los ejemplos usando software de código abierto *en vivo y en tiempo real*! Esta no está una discusión abstracta, vengas para ganar conocimiento real y practical!
+*El ponente escribirá en código todos los ejemplos usando software de código abierto en vivo y en tiempo real*! Esta no está una presentación abstracta, vengas para ganar conocimiento real y practical!
 
 == Bio
 
