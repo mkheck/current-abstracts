@@ -4,7 +4,7 @@
 
 I tweeted this on 2 March 2019:
 
-"One of these days I'll create a session called "Klingon Kotlin" in which I live-code Kotlin with "great passion" (anger?) while wielding a bat'leth. Or maybe just vim. 😄
+"One of these days I'll create a session called 'Klingon Kotlin' in which I live-code Kotlin with "great passion" (anger?) while wielding a bat'leth. Or maybe just vim. 😄
 
 You heard it here first. Conferences, any taste for this? #ItsAGoodDayToKodeKotlin"
 
