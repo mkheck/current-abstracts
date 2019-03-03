@@ -1,0 +1,37 @@
+= Klingon Kotlin (in anger, er, passion) with Project Reactor & Spring Boot: Ha' HIja'!
+
+== Motivation
+
+I tweeted this on 2 March 2019:
+
+"One of these days I'll create a session called "Klingon Kotlin" in which I live-code Kotlin with "great passion" (anger?) while wielding a bat'leth. Or maybe just vim. 😄
+
+You heard it here first. Conferences, any taste for this? #ItsAGoodDayToKodeKotlin"
+
+link:https://twitter.com/mkheck/status/1101890974958141442[Klingon Kotlin debut tweet]
+
+The first response? Our Vice President!
+
+"I’ll buy you the bat’leth if you do this on stage @s1p"
+link:https://twitter.com/IanAndrewsDC/status/1102020896678649857[Ian Andrews' response]
+
+And that was just the beginning. Needless to say, I received numerous positive responses...ergo, this session!
+
+== Abstract
+
+Since Spring Framework 5's GA (General Availability) release in September 2017, Kotlin has enjoyed status _equal to Java_ as a full first-class citizen in the Spring multiverse. The other key innovation/addition to Spring Framework 5 was Project Reactor.
+
+Reactive programming offers developers a way to build message-driven, elastic, resilient, and responsive services. The Reactive Streams initiative provides a baseline and Project Reactor provides a great way to become immediately productive, leveraging reactive capabilities from end to end. Combining Kotlin with Reactor empowers you to spin up powerful, concise, & fully reactive Spring Boot applications quickly and brutally efficiently.
+
+In this talk, the presenter shows you how to:
+
+* fully exploit existing Spring-stack technologies using your weapon of choice - Kotlin - like a true Klingon warrior
+* easily transition from uncloaked (blocking) applications to cloaked (reactive) applications & systems...for the Empire!
+* define your API in an imperative style *and* functionally using the battle-tested Spring Kotlin routing DSL, reaping all benefits both ways
+* leverage powerful new testing mechanisms to make code better and life harder...for your sworn enemies, *bugs*
+
+_The presenter will code all examples live and in real time_. This is not an abstract discussion, come to gain real, practical knowledge *if you dare*. Ha' ghob!
+
+== Developer & Presenter
+
+Mark Heckler is a professional problem solver and Spring Developer/Advocate for Pivotal, conference speaker, published author, & Java Champion focusing upon developing secure & innovative software at velocity for the Cloud. He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog (https://www.thehecklers.com[Hecklers in Development, brewing stronger Java]) and an occasionally interesting Twitter account (https://twitter.com/mkheck[@mkheck]).
