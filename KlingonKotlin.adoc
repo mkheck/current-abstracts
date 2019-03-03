@@ -1,4 +1,4 @@
-= Klingon Kotlin (in anger, er, passion) with Project Reactor & Spring Boot: Ha' HIja'!
+= Klingon Kotlin in anger with Project Reactor & Spring Boot: Ha' HIja'!
 
 == Motivation
 
