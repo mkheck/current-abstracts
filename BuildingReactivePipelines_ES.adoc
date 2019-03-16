@@ -1,4 +1,4 @@
-= Construyendo Pipelines Reactivos: Como ir de aplicaciones escalables a aplicaciones RIDÍCULAMENTE escalables
+= Construyendo Pipelines Reactivos: Como ir de aplicaciones escalables a sistemas RIDÍCULAMENTE escalables
 
 == Sumario
 
