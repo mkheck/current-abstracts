@@ -1,10 +1,10 @@
-= Introducción a Spring Boot
+= Spring Boot desde cero
 
 == Sumario
 
-En esta charla, recibirán una introducción corta a los conceptos claves de Spring Boot y además aprenderán cómo construir rápidamente las aplicaciones funcionales. Los temas incluyen:
+En esta charla, recibirán una breve introducción a los conceptos claves de Spring Boot y además aprenderán cómo construir rápidamente aplicaciones funcionales. Los temas incluyen:
 
-* Los tres características centrales de Spring Boot en que todo lo resto se construye
+* Los tres características centrales de Spring Boot
 * ¿Maven o Gradle? ¿Java o Kotlin? ¿Cuál versión de Boot debes usar? ¿Por qué?
 * Empezar a construir aplicaciones de Spring Boot
 * Soporte para Spring en los Integrated Development Environments (IDEs)
