@@ -1,0 +1,11 @@
+= Game of Streams: How to Tame & Get the Most from your Messaging Platforms 🐉
+
+== Abstract
+
+Most mission-critical systems have distributed elements or are entirely distributed, resulting in a number of challenges: performance, scalability, reliability, resilience...the eight fallacies of distributed computing are alive and well!
+
+Messaging platforms are often used to solve these problems and increase the "ilities", but they don't come without a few complexities of their own. Come to this session to learn not only how to use open source solutions like Spring Cloud Stream, RabbitMQ, & Apache Kafka to maximize your distributed systems' capabilities while minimizing complexity...but also how to *really* use them! There be dragons when dealing with messaging platforms; the presenter will show you several ways to tame and harness them for maximum fire, maximum altitude.  All examples will be coded *live & in real-time*!
+
+== Developer & Presenter
+
+Mark Heckler is a Professional Problem Solver and Spring Developer & Advocate at Pivotal, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the Cloud. He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog (https://www.thehecklers.com) and an occasionally interesting Twitter account (@mkheck).
