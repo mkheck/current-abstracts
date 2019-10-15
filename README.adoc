@@ -31,17 +31,18 @@ Puedo presentar en inglés o español. Las presentaciones disponible en español
 
 === English
 
-Mark Heckler is a Pivotal Principal Technologist & Spring Developer Advocate, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the Cloud and IoT applications. He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog (https://www.thehecklers.com) and an occasionally interesting Twitter account (https://twitter.com/mkheck[@mkheck]).
+Mark Heckler is a Professional Problem Solver and Spring Developer & Advocate at Pivotal, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the Cloud. He has worked with key players in the manufacturing, retail, medical, scientific, telecom, and financial industries and various public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author/curator of a developer-focused blog (https://www.thehecklers.comp[Hecklers in Development, brewing stronger Java]) and an occasionally interesting Twitter account (https://twitter.com/mkheck[@mkheck]).
 
 === Español
 
-Mark Heckler es Principal Technologist y Spring Developer Advocate, presentador, y autor centrándose en desarrollo de software para el Internet of Things (IoT) y la nube. Ha trabajado con negocios claves en los campos de fabricación, retail, médico, científico, telecomunicación, y finanzas y también varios organizaciones públicas para desarrollar y entregar habilidades críticas con puntualidad y dentro de presupuesto. Mark es contribuidor de código abierto y autor/curador de un blog para desarrolladores (http://www.losheckler.com) y una cuenta ocasionalmente interesante en Twitter (https://twitter.com/mkheck[@mkheck]).
+Mark Heckler es Solucionador Profesional de Problemas y Spring Developer + Advocate, ponente, y autor enfocado en el desarrollo de software para el Internet of Things (IoT) y la nube. Ha trabajado con negocios claves en los campos de fabricación, retail, médico, científico, telecomunicación, y finanzas y también varios organizaciones públicas para desarrollar y entregar habilidades críticas con puntualidad y dentro de presupuesto. Mark es contribuidor de código abierto y autor/curador de un blog para desarrolladores (http://www.losheckler.com[Los Heckler en desarrollo, haciendo Java más fuerte]) y una cuenta ocasionalmente interesante en Twitter (https://twitter.com/mkheck[@mkheck]).
 
 == Photo
 
-https://drive.google.com/open?id=1WuQe9DLbS4zjLtqEXm-LQvqoBkf1gA4Q[Click here to view/download current photo]
+http://bit.ly/mkheckphoto[Click here to view/download current photo]
 
 == Contacting me
 
 * https://www.thehecklers.com[Hecklers in Development, brewing stronger Java (personal website)]
 * mailto:mark@thehecklers.com[Email me @ mark@thehecklers.com]
+* mailto:mark@losheckler.com[Enviarme un email en mark@losheckler.com]
