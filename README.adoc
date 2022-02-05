@@ -45,5 +45,4 @@ https://1drv.ms/u/s!Asa7U7j7HrpThtkXK0VK3muwW42E5A[Click here to view/download c
 == Contacting me
 
 * https://www.thehecklers.com[Hecklers in Development, brewing stronger Java (personal website)]
-* mailto:mark@thehecklers.com[Email me @ mark@thehecklers.com]
-* mailto:mark@losheckler.com[Envíaame un email en mark@losheckler.com]
+* mailto:mark@thehecklers.com[Email me / envíaame un email @ mark@thehecklers.com]
