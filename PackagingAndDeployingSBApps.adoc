@@ -1,0 +1,28 @@
+= Wrap it up, I'll take it! Packaging and Deploying Spring Boot Applications
+
+== Abstract
+
+Spring Boot provides a developer-first focus for creating production Java and Kotlin applications, offering opinions -- but also options -- for creating powerful and versatile solutions to real problems. Once you've developed your application, though, then what? How do you go from dev to prod?
+
+There are numerous ways to package your Spring Boot application, including:
+
+* war
+* jar
+* executable jar
+* fully-executable jar
+* exploded jar
+* container image
+
+And once packaged, that same application can be deployed in several ways as well:
+
+* bare metal JVM
+* bare metal native (Graal)
+* app engine
+* container engine
+* container orchestrator (K8s)
+
+In this session, the presenter live-codes a Spring Boot app, then packages and deploys it in various ways across numerous targets to demonstrate pros & cons of each. This is not an academic discussion, but a real-world, real-time examination of options available to you as a Spring Boot developer to take your application from idea to production.
+
+== Developer & Presenter
+
+Mark Heckler is a software developer & Cloud Developer Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. He has worked with key players in numerous industries and public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author of Spring Boot: Up and Running (https://bit.ly/springbootbook) and can be found on Twitter @mkheck.
