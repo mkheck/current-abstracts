@@ -2,7 +2,7 @@
 
 == Abstract
 
-Cloud Native, Docker, DevOps, microservices, and more: we go to conferences and get excited about the potential of so many things that could revolutionize our development and change our organizational and professional lives! And then, we go home...and hit the wall. If you've ever asked yourself, "This stuff is cool, but HOW CAN I GET MY COMPANY TO DO IT??!", this is the session for you.
+Cloud Native, containers, Kubernetes, microservices, and more: we go to conferences and get excited about the potential of so many things that could revolutionize our development and change our organizational and professional lives! And then, we go home...and hit the wall. If you've ever asked yourself, "This stuff is cool, but HOW CAN I GET MY COMPANY TO DO IT??!", this is the session for you.
 
 Learn from an experienced software developer (who also happens to have an MBA) how to make your case to leadership, presenting management-ready justifications for changes in "your world" that will positively impact the business as a whole. Topics include:
 
