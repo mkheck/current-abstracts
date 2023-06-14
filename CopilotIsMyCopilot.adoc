@@ -1,0 +1,13 @@
+= Copilot is my Copilot: Pair programming with an AI
+
+== Abstract
+
+What if you could develop better apps faster? What if you had a pair programming partner who could help you write cleaner code, catch bugs, and even write some code and tests for you, whenever you wanted or needed to do so?
+
+GitHub Copilot is an Artificial Intelligence (AI) code completion tool that can help you write better code faster. It's not a replacement for your hard-won expertise, but it can provide timely assistance. Copilot offers code and test suggestions without judgement, letting you evaluate and consider - then use or discard - logic for inclusion that complements your existing code and style choices. Why overflow your stack when you can use a trained professional?
+
+Come to this session to learn how to level up your development process using Copilot!
+
+== Developer & Presenter
+
+Mark Heckler is a software developer & Principal Cloud Developer Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. He has worked with key players in numerous industries and public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author of Spring Boot: Up and Running (https://bit.ly/springbootbook) and can be found on Twitter @mkheck.

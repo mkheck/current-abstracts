@@ -2,7 +2,7 @@
 
 == Abstract
 
-So-called "serverless" may be the least accurate tech name in history, although there are countless worthy contenders for that (dis)honor. And while functions may not have a perfectly precise definition in terms of size or scope, we're far more likely to reach general agreement on functions - their purpose, scope, pros/cons, and utility - than we are to ever locate those missing servers. :)
+So-called "serverless" may be the least accurate tech name in history, although there are countless worthy contenders for that (dis)honor. And while functions may not have a perfectly precise definition in terms of size or scope, we're far more likely to reach general agreement on functions - their purpose, scope, pros/cons, and utility - than we are to ever locate those missing servers.
 
 In this session, the presenter examines what makes a capability or set of capabilities ideal candidate(s) for development and deployment as one or more functions. The presenter will then lead attendees on a Live Coding Adventure(TM) to demonstrate how to create candidate functions using the power of Spring Boot and Spring Cloud Function. Finally, we will deploy these open source functions via Azure Functions to demonstrate how to integrate everything in the cloud and reveal some potentially very welcome discoveries. Come to this session to learn how to incorporate functions into your critical systems. With great power...
 
