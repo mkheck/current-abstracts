@@ -32,11 +32,11 @@ Puedo presentar en inglés o español. Las presentaciones disponible en español
 
 === English
 
-Mark Heckler is a software developer & Principal Cloud Developer Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. He has worked with key players in numerous industries and public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author of Spring Boot: Up and Running (https://bit.ly/springbootbook) and can be found on Twitter/X @mkheck.
+Mark Heckler, MBA is a software developer & Principal Cloud Developer Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. He has worked with key players in numerous industries and public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author of Spring Boot: Up and Running (https://bit.ly/springbootbook) and can be found on Twitter/X @mkheck.
 
 === Español
 
-Mark Heckler es desarrollador de software y Principal Cloud Advocate de Java/Idiomas de JVM en Microsoft, ponente, Java Champion, y Kotlin Developer Expert enfocado en el desarrollo rápido de software "production-ready" para la nube y el Internet of Things (IoT). Ha trabajado con negocios claves en numerosas industrias y organizaciones del sectór público para desarrollar y entregar habilidades críticas con puntualidad y dentro de presupuesto. Mark es contribuidor de código abierto y autor del libro Spring Boot: Up and Running (https://bit.ly/springbootbook) y se puede encontrado en Twitter/X @mkheck.
+Mark Heckler, MBA es desarrollador de software y Principal Cloud Advocate de Java/Idiomas de JVM en Microsoft, ponente, Java Champion, y Kotlin Developer Expert enfocado en el desarrollo rápido de software "production-ready" para la nube y el Internet of Things (IoT). Ha trabajado con negocios claves en numerosas industrias y organizaciones del sectór público para desarrollar y entregar habilidades críticas con puntualidad y dentro de presupuesto. Mark es contribuidor de código abierto y autor del libro Spring Boot: Up and Running (https://bit.ly/springbootbook) y se puede encontrado en Twitter/X @mkheck.
 
 == Photo
 
