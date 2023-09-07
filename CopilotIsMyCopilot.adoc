@@ -6,7 +6,7 @@ What if you could develop better apps faster? What if you had a pair programming
 
 GitHub Copilot is an Artificial Intelligence (AI) code completion tool that can help you write better code faster. It's not a replacement for your hard-won expertise, but it can provide timely assistance. Copilot offers code and test suggestions without judgement, letting you evaluate and consider - then use or discard - logic for inclusion that complements your existing code and style choices. Why overflow your stack when you can use a trained professional?
 
-Come to this session to learn how to level up your development process using Copilot!
+Come to this session to learn -- from a software developer and licensed pilot -- how to level up your development process using Copilot!
 
 == Developer & Presenter
 
