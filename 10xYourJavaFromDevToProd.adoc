@@ -1,0 +1,17 @@
+= 10x Your Java from Development to Production with VS Code, Copilot, & Azure Spring Apps
+
+== Abstract
+
+Once upon a time, a few early cloud environments took a developer-first approach. Getting Java apps to production was as easy as pushing JAR files to the platform and letting it do all the heavy lifting, letting you focus on creating and delivering mission-critical features to your users. The need is greater than ever, but where are the solutions? Kubernetes is a robust platform, but "developer-first" it is not.
+
+Remember, no one ever got praise and a raise for crafting the perfect K8s YAML file...which is the universe's way of reminding you that you want -- you need -- to focus on writing great code, not on tweaking infrastructure.
+
+Developers consistently put in the effort, but better tools and a better platform are force multipliers, enabling you to go "from good to great", build and deploy better code, and do so more quickly and with less effort.
+
+In this session, the presenter will examine the pieces needed for a Spring Boot developer-first toolchain _and_ cloud and then demonstrate how to unlock those pieces using Azure Spring Apps, a fully managed service by VMware and Microsoft. Putting VS Code and GitHub Copilot together makes development both better and faster, and Azure Spring Apps allows you to take that mission-critical code from dev to prod seamlessly. Once it's there, Azure gives you the tools to monitor, scale, and manage your applications with ease.
+
+Come to this session to learn how to increase your and your company's value by getting back to what you do best and what brings you the most joy: writing amazing code and delivering the capabilities your users demand. Put the power of VS Code, GitHub Copilot, and Azure Spring Apps to work for you!
+
+== Developer & Presenter
+
+Mark Heckler is a software developer & Principal Cloud Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. He has worked with key players in numerous industries and public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author of Spring Boot: Up and Running (https://bit.ly/springbootbook) and can be found on Twitter @mkheck.
