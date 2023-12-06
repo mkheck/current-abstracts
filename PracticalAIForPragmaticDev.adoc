@@ -1,0 +1,17 @@
+= Practical AI for the Pragmatic Developer
+
+== Abstract
+
+When a new technology arrives on the scene, most developers are torn between feelings of excitement and dread. We all love new toys and better ways to get things done, but most of the time, the "new shiny" is breathlessly overhyped. No one thing can do everything, yet we're barraged nonstop with pitches promising that "this new thing can!" This can lead to curmudgeonly thoughts, which is unfortunate and counterproductive...because sometimes, some of the hype is _real_. How can we learn to distinguish gold from fool's gold?
+
+In this session, the presenter cuts through the hype and focuses on areas where AI delivers demonstrable value for the pragmatic developer. We'll discover where it makes sense to plug AI-enabled tools into various stages of the developer's workflow and how to make it work with the least disruption and best results. We'll also look at some great tools available for building AI-powered applications in Java. We'll talk costs too, because TANSTAAFL - There Ain't No Such Thing As A Free Lunch. We'll do all of this while building a working AI-powered application together, live and in real time, using Java, Spring Boot, and Spring AI. Maybe more, depending on time!
+
+Come to this session for an unvarnished, no-nonsense look at how and where it makes to put AI to work for you _now_. You'll leave with a plan, not with rose-colored glasses.
+
+== Additional Information
+
+In this session, the presenter delivers a no-nonsense look at how and where it makes to put AI to work for you, from incorporating it into your development process to AI-enabling your applications. Learn how to determine when to reach for AI and when to run away!
+
+== Developer & Presenter
+
+Mark Heckler is a software developer & Principal Cloud Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. He has worked with key players in numerous industries and public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author of Spring Boot: Up and Running (https://bit.ly/springbootbook) and can be found on Twitter @mkheck.

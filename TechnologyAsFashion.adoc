@@ -1,0 +1,19 @@
+= Technology as Fashion: Faded Fads and Flipped Scripts
+
+== Keynote Abstract
+
+As developers, we want to develop and deliver the best software possible. It's a matter of personal and professional pride! We constantly strive to improve, learning from personal experience, community knowledge, and practices (currently) considered best for software development, while eagerly incorporating brand new tools and techniques that promise to revolutionize software development! Sometimes it works, sometimes it doesn't. But don't we look _great_!
+
+Far more than we care to admit, technology is driven by fashion. Sometimes we adopt new tools and techniques because they're new, not because they're better. If we're always only reaching for the shiniest object, today's new hotness can easily become tomorrow's technical debt.
+
+In this session, the presenter will cheerfully examine past technology choices that roared onto the scene but have since gone the way of crocheted vests, parachute pants, and stocking caps. Also up for discussion are current tech offerings that already show signs of moving to the bargain bin.
+
+Come to be challenged and amused. And maybe a little embarrassed.
+
+== Additional Information
+
+This session is designed to encourage all attendees to really think about the choices they make when selecting tools and technologies. New is great! But not just because it's new.
+
+== Developer & Presenter
+
+Mark Heckler is a software developer & Principal Cloud Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. He has worked with key players in numerous industries and public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author of Spring Boot: Up and Running (https://bit.ly/springbootbook) and can be found on Twitter @mkheck.
