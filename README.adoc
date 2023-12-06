@@ -1,4 +1,4 @@
-= Current Abstracts for sessions, deep dives, & workshops I can deliver upon request
+= Current Abstracts for keynotes, sessions, deep dives, & workshops I can deliver upon request
 
 == Maintainer
 
@@ -12,6 +12,7 @@
 
 This repository contains abstracts for talks I am currently delivering in one or more of the following formats:
 
+* Keynotes
 * Conference/meetup sessions ranging from 50 to 90 minutes
 * Deep dives ranging from 2 to 3 hours
 
