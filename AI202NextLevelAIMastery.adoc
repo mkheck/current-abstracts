@@ -4,7 +4,7 @@
 
 In this session, the presenter reviews and builds upon key Generative AI (GenAI) capabilities to show how to incorporate capabilities essential for delivering applications with real-world value.
 
-Concepts covered will include some of all of the following, depending on time available:
+Concepts covered will include some or all of the following, depending on time available:
 
 * Spring AI and the models it supports
 * Types of Messages and how to use them
