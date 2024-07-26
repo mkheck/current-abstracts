@@ -1,0 +1,23 @@
+= AI 202: Next-level AI Mastery for Java Developers
+
+== Abstract
+
+In this session, the presenter reviews and builds upon key Generative AI (GenAI) capabilities to show how to incorporate capabilities essential for delivering applications with real-world value.
+
+Concepts covered will include some of all of the following, depending on time available:
+
+* Spring AI and the models it supports
+* Types of Messages and how to use them
+* LLM responses, Spring AI outputs
+* Prompts and PromptTemplates
+* Tokens, the building block$ of AI
+* Vector stores: unleashing AI on your data
+* Conversation memory: 100x your AI's capabilities
+* Images from text: can AI draw better than you?
+* Deployment considerations for your Spring AI app
+
+Come to this session for a fast-paced, *live-coding adventure* to learn how to put AI to work for you.
+
+== Developer & Presenter
+
+Mark Heckler is a software developer & Principal Cloud Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. He has worked with key players in numerous industries and public sector organizations to develop and deliver critical capabilities on time and on budget. Mark is an open source contributor and author of Spring Boot: Up and Running (https://bit.ly/springbootbook) and can be found on X @mkheck.
