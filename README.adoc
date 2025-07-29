@@ -6,7 +6,9 @@
 * mailto:mark@thehecklers.com[mark@thehecklers.com]
 * mailto:mark@thehecklers.org[mark@thehecklers.org]
 * mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
-* https://twitter.com/mkheck[@mkheck on Twitter]
+* https://x.com/mkheck[@mkheck on X]
+* https://bsky.app/profile/mkheck.bsky.social[@mkheck on Bluesky]
+* https://mastodon.cloud/@mkheck[@mkheck on Mastodon]
 
 == Purpose
 
