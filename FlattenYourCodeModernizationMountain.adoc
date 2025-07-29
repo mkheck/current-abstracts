@@ -1,0 +1,15 @@
+= Flatten Your Code Modernization Mountain: Scalable, Repeatable, & Deterministic Refactoring with AI and OpenRewrite
+
+== Abstract
+
+As technical debt accumulates and frameworks evolve, engineering teams face an ever-growing code modernization mountain. Legacy code, inconsistent patterns, altered or abandoned APIs, and discovered vulnerabilities slow your velocity, create risk, and drain your team's energy. What if you could flatten this mountain using proven automation that's scalable, repeatable, and, above all, 100% consistent?
+
+In this highly interactive, demo-heavy session, we'll roll up our sleeves and explore how to pair the power of AI with the precision of OpenRewrite, an open-source automated refactoring engine par excellence. See how AI supercharges your ability to create transformation recipes, and how OpenRewrite executes these across massive codebases with blistering speed and deterministic results.
+
+Stop staring with dread at that growing mountain of tech debt! Come to this session to learn how to flatten it, freeing yourself to move up the value chain and once again amaze your users, your customers, and your organization.
+
+== Developer & Presenter
+
+Mark Heckler, MBA is the Senior Director of Field Engineering at Moderne.
+
+He has worked with key players in numerous industries and organizations to develop, deliver, and maintain critical capabilities securely, on time, and on budget. Mark is a Java Champion, open source contributor, author of Spring Boot: Up and Running (https://bit.ly/springbootbook), and a licensed, instrument-rated pilot.
