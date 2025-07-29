@@ -6,7 +6,7 @@ Artificial Intelligence is eating the world, and new and amazing use cases are b
 
 This places developers in a difficult position: how do you take advantage of these new capabilities without significant investments in both time and tooling to become an AI expert? How do you plug AI into your existing applications without massive rearchitecting and rewriting?
 
-Come to this session for a dive-into-the-deep-end introduction of key concepts and tools at your disposal and even better, a *live-coding adventure* using Spring Boot, Java, and Azure OpenAI. You'll leave this session with the knowledge and confidence to pave a painless (and powerful) path to production AI in your Java applications.
+Come to this session for a dive-into-the-deep-end introduction of key concepts and tools at your disposal and even better, a *live-coding adventure* using Spring Boot, Java, and OpenAI. You'll leave this session with the knowledge and confidence to pave a painless (and powerful) path to production AI in your Java applications.
 
 == Developer & Presenter
 
